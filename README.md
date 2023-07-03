@@ -4,7 +4,7 @@
 **Msfatima/Msfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-I’m a Microsoft certified and passionate web developer, writing code, troubleshoot programming errors.
+I’m a passionate and Microsoft certified web developer.
 
 <!--- 🌱 I’m currently learning Azure 
 
